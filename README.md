@@ -1,1 +1,13 @@
 # github_pages_101
+
+# GitHub Pages Exercise
+
+This repository is used for a GitHub Pages exercise.
+
+## Involves
+
+- Git
+- GitHub
+- SSH
+- GitHub Pages
+- HTML
